@@ -9,5 +9,5 @@ namespace DotNet8Authentication.Data
         {
 
         }
-    }
+    } 
 }
